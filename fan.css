@@ -3,7 +3,10 @@
     padding: 0;
     font-family: sans-serif;
 }
-
+@font-face{
+    src: url(fonts/parry-hotter.regular.ttf);
+    font-family:nois;
+}
 .start{
 
     width: 100%;
@@ -16,6 +19,7 @@
 }
 .start h1{
     color: blanchedalmond;
+    font-family:nos;
     font-size: 50px;
     margin-left: -160vh;
     text-align: center;
