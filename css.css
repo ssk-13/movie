@@ -16,6 +16,10 @@ body{
     z-index: 1;
   
 }
+.collapse {
+    background:white;
+    margin-right:50% ;
+}
 
 
 }
