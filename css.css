@@ -222,6 +222,7 @@ html{
 }
 .contact-area .text-part h1{
     margin-left: -160%;
+    margin-top: 40px;
 }
 .contact-area ul li{
     color:#fff;
