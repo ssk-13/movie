@@ -286,6 +286,14 @@ html{
    padding-left:20vh;
 }
 
+.contact-area ul li:hover{
+    color: #340bc7;
+    border: 1px solid #072bcc;
+    box-shadow: 0 0 10px #31edfa,0 0 30px #314ffa,0 0 40px #052f7c;
+    transition: 0.5s;
+    
+}
+
 
 
 
